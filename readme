@@ -1,0 +1,5 @@
+The project consists of code for text recognition
+We will be using Pytorch for developing the neural network
+The initial codes will be the practice ones wherein we will check whether we know the concept or not.
+We will be starting with CNNs first so that we can finally use Faster RCNNs with GPU support for faster speed.
+We will also use an inbuilt text to speech software.
